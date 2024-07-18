@@ -1,4 +1,2 @@
-This dataset consists of clinical trials related to COVID 19 studies presented on the site.
-The dataset consists of XML files where each XML file corresponds to one study. 
-The filename is the NCT number which a unique identifier of a study in ClinicalTrials repository.
+Although there have been lot of studies undertaken in the past on factors affecting life expectancy considering demographic variables, income composition and mortality rates. It was found that affect of immunization and human development index was not taken into account in the past. Also, some of the past research was done considering multiple linear regression based on data set of one year for all the countries.
 My purpose of the data set was to visualize the data, making inference from it
